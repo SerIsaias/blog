@@ -1,8 +1,8 @@
 /* Creamos una funcion para cambiar las imagenes del html China*/ 
 const imagenesChina=[
-   "/Img/Img_china/imagen_de_china",
-   "/Img/Img_china/imagen_de_china_2.jpeg",
-   "/Img/Img_china/imagen_de_china_1.jpeg"
+   "../Img/Img_china/imagen_de_china",
+   "../Img/Img_china/imagen_de_china_2.jpeg",
+   "../Img/Img_china/imagen_de_china_1.jpeg"
 ];
 
 let indexChina=0;
