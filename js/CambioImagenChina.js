@@ -1,7 +1,5 @@
 /* Creamos una funcion para cambiar las imagenes del html China*/ 
 const imagenesChina=[
-    "https://serisaias.github.io/Img/Img_china/imagen_de_china_2.jpeg",
-   "https://serisaias.github.io/Img/Img_china/imagen_de_china_1.jpeg",
    "../Img/Img_china/imagen_de_china",
    "../Img/Img_china/imagen_de_china_2.jpeg",
    "../Img/Img_china/imagen_de_china_1.jpeg"
