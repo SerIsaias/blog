@@ -15,7 +15,7 @@ function validarDatos() {
     // Verificar si el usuario y la contraseña ingresados son correctos
     if (usuario === usuarioValido && pass === passCorrecta) {
         // Si son correctos, redirigir al usuario a la página de inicio
-        window.location.href = "/Inicio.html";
+        window.location.href = "Inicio.html";
         return false; // Evitar que el formulario se envíe
     } else {
         // Si son incorrectos, mostrar un mensaje de error
